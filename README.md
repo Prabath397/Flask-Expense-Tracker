@@ -21,13 +21,6 @@ A simple \*\*Expense Tracker Web App\*\* built with Flask \& SQLite.
 \- Export filtered data to CSV
 
 
-
-\## 🖼️ Screenshot
-
-(Add screenshot later)
-
-
-
 \## ⚙️ Tech Stack
 
 \- Python (Flask)
