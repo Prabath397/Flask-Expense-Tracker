@@ -1,37 +1,37 @@
-\# 💰 Flask Expense Tracker
+# 💰 Flask Expense Tracker
 
 
 
-A simple \*\*Expense Tracker Web App\*\* built with Flask \& SQLite.
+A simple **Expense Tracker Web App** built with Flask & SQLite.
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
-\- Add \& Delete expenses
+- Add & Delete expenses
 
-\- Categories (Food, Travel, Shopping, Other)
+- Categories (Food, Travel, Shopping, Other)
 
-\- Total expenses dashboard
+- Total expenses dashboard
 
-\- Chart.js pie chart for spending by category
+- Chart.js pie chart for spending by category
 
-\- Monthly filter for expenses
+- Monthly filter for expenses
 
-\- Export filtered data to CSV
-
-
-\## ⚙️ Tech Stack
-
-\- Python (Flask)
-
-\- SQLite
-
-\- HTML, CSS, Chart.js
+- Export filtered data to CSV
 
 
+## ⚙️ Tech Stack
 
-\## ▶️ Run Locally
+- Python (Flask)
+
+- SQLite
+
+- HTML, CSS, Chart.js
+
+
+
+## ▶️ Run Locally
 
 ```bash
 
@@ -41,21 +41,21 @@ cd Flask-Expense-Tracker
 
 python -m venv venv
 
-venv\\Scripts\\activate   # Windows
+venvScriptsactivate   # Windows
 
-pip install flask flask\_sqlalchemy python-dotenv
+pip install flask flask_sqlalchemy python-dotenv
 
 python app.py
+```
 
 
-
-Then open: http://127.0.0.1:5000
-
+**Then open:** http://127.0.0.1:5000
 
 
+---
 
 
-\##👤 Author
+## 👤 Author
 
-Prabath
+Prabath Jayasuriya
 
